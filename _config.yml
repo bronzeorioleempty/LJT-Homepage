@@ -16,3 +16,17 @@ description              : &description "Junteng Liu's academic portfolio"   # U
 url                      : https://bronzeorioleempty.github.io
 baseurl                  : "/LJT-Homepage"
 repository               : "bronzeorioleempty/LJT-Homepage"
+
+# Site Author - The following control what appear as part of the author content on the side bar.
+#               If a field is blank the icon and link will not appear, otherwise it will be shown.
+#               Additional customization can be done by editing /_includes/author-profile.html
+author:
+  # Biographic information
+  avatar           : "profile.png"
+  name             : "Junteng Liu"
+  pronouns         : # example: "she/her"
+  bio              : "First-year PhD candidate at HKUST NLP Group"
+  location         : "Hong Kong"
+  employer         : "Hong Kong University of Science and Technology"
+  uri              : # URL
+  email            : "jliugi@connect.ust.hk"
