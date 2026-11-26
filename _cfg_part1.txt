@@ -1,0 +1,6 @@
+title: "Junteng Liu"
+name: "Junteng Liu"
+description: "Junteng Liu's academic portfolio"
+url: https://bronzeorioleempty.github.io
+baseurl: "/LJT-Homepage"
+repository: "bronzeorioleempty/LJT-Homepage"
