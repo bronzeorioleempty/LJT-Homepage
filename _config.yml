@@ -13,3 +13,6 @@ title                    : "Junteng Liu"
 title_separator          : "-"
 name                     : &name "Junteng Liu"
 description              : &description "Junteng Liu's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
+url                      : https://bronzeorioleempty.github.io
+baseurl                  : "/LJT-Homepage"
+repository               : "bronzeorioleempty/LJT-Homepage"
