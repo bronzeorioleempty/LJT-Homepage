@@ -1,3 +1,0 @@
-url                      : https://bronzeorioleempty.github.io
-baseurl                  : "/LJT-Homepage"
-repository               : "bronzeorioleempty/LJT-Homepage"
